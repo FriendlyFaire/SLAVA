@@ -1,0 +1,27 @@
+div {
+  width: 500px;
+  height: 500px;
+  text-align: center;
+  background-color: antiquewhite;
+  margin: 0 auto 20px;
+}
+
+h1 {
+  color: black;
+  font-size: 31px;
+  font-style: italic;
+  text-transform: uppercase;
+}
+
+h2 {
+  font-size: 31px;
+  text-transform: uppercase;
+}
+
+img {
+  text-align: center;
+}
+
+h3 {
+  text-transform: uppercase;
+}
